@@ -1,0 +1,45 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #E5F6DF;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.quote{
+  max-width: 500px;
+  margin: auto;
+  padding-bottom: 20px;
+}
+
+.everything{
+  max-width: 400px;
+  margin: auto;
+}
+
+.earth{
+  padding-top: 20px;
+  max-height: 250px;
+  max-width: 250px;
+  padding-bottom: 20px;
+}
+
+.buttons {
+  display: inline-block;
+  font-size: 20px;
+  font-family: 'Josefin Sans', sans-serif;
+  margin-right: 20px;
+}
+
+.buttonss {
+  display: inline-block;
+  font-size: 20px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+img {
+  width:300px;
+  height:300px;
+}
+
+

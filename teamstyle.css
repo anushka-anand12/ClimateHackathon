@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #E5F6DF;
+  font-family: 'Josefin Sans', sans-serif;
+}
+img {
+    max-width: 30%;
+    max-height: 30%;
+   margin:0 auto;
+}
+p{
+   margin:0 auto;
+  font-weight: bold;
+  font-size: 20px;
+
+}

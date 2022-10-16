@@ -1,0 +1,24 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #E5F6DF;
+  font-family: 'Josefin Sans', sans-serif;
+}
+#vblurb{
+    background-color: rgba(253, 252, 252, 0.5);
+    width: 40%;
+    margin: auto;
+    border-radius: 5px;
+    box-shadow: 0px 0px 15px rgb(94, 89, 89);
+    padding: 5px 5px;
+}
+#vision{
+    text-align: center;
+    color: black;
+    font-size: 50px; 
+}
+#vision:hover{
+    text-decoration: underline;
+}
